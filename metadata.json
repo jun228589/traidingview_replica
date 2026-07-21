@@ -1,0 +1,6 @@
+{
+  "name": "TradingInsights",
+  "description": "A high-performance financial intelligence platform featuring real-time idea feeds, AI indicators, and quantum trading models in a frosted glass interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
